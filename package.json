@@ -15,8 +15,8 @@
   "dependencies": {
     "backbone": "~0.9",
     "underscore.deferred": "~0.4",
-    "cheerio": "~0.10.7",
-    "underscore": "~1.4"
+    "cheerio": "~0.14.0",
+    "underscore": "~1.12.1"
   },
   "devDependencies": {
     "grunt": "~0.4",
